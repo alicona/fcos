@@ -5,11 +5,7 @@
   "passwd": {
     "users": [
       {
-        "groups": [
-          "sudo",
-          "docker"
-        ],
-        "name": "alicona",
+        "name": "core",
         "sshAuthorizedKeys": [
           "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIKb6l6WK+O6hlNlUKhPYP3tG5bWLp+VWOWwWjwo5fbf7 alicona@lenovo"
         ]
