@@ -20,7 +20,7 @@
     "files": [
       {
         "contents": {
-          "source": "data:,coreos-test%0A"
+          "source": "data:,portainer%0A"
         },
         "mode": 420,
         "path": "/etc/hostname"
